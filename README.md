@@ -52,14 +52,6 @@ Para utilizar as funções desta biblioteca, siga os passos abaixo:
     print(conteudo)
     ```
 
-## Melhorias Futuras
-
-Para aprimorar a biblioteca, as seguintes melhorias podem ser consideradas:
-
-- **Adição de Mais Funções**: Inclusão de funções adicionais para atender a necessidades específicas.
-- **Documentação Aprofundada**: Criação de uma documentação mais completa para cada função disponível.
-- **Exemplos de Uso**: Adição de exemplos práticos que demonstrem como usar as funções da biblioteca.
-
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para adicionar novas funcionalidades, melhorar o código ou ajustar a documentação. Para contribuir:
